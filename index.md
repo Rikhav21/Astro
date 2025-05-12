@@ -1,5 +1,5 @@
 ---
-:Title
+title : Astro
 layout: default
 ---
 
